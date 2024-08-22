@@ -11,8 +11,10 @@
 <a href="https://medium.com/@pawankr.tiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" style="vertical-align:center" /></a>
 
  <p align="center">Glad to see you here!  
+<p align="center">⚡ Fun fact: Internet users blink less than usual. 
+	
+### 🚀 About Me 
 
-### 🚀 About Me
 My tech journey is a dynamic blend of learning, experimenting, and sharing knowledge with the community.
 
 🔭 Current Focus
@@ -27,12 +29,16 @@ My tech journey is a dynamic blend of learning, experimenting, and sharing knowl
 
 Feel free to reach out— pwn.trpth1@gmail.com. I’m excited to exchange ideas and collaborate on tech adventures!
 
-### My Favorites:
+<details>
+  <summary><b> My Favorite </b></summary>
+
+  <br />
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
-- ⚡ Fun fact: Internet users blink less than usual.
+
+</details>
 
 ### Languages and Tools:
 

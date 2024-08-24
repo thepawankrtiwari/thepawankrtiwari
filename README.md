@@ -102,7 +102,7 @@ Feel free to reach out— pwn.trpth1@gmail.com. I’m excited to exchange ideas 
 
  
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=thepawankrtiwari&style=for-the-badge&color=blue" alt="Profile Visits"/>
+    <img src="https://komarev.com/ghpvc/?username=thepawankrtiwari&style=for-the-badge&color=blue&label=Profile+Visits" alt="Profile visits"/>
 </p> 
 
 

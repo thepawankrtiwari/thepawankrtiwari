@@ -1,17 +1,20 @@
-<h1 align="center"> Hi 👋🏻, I'm Pawan kr. Tiwari </br>
+<h1 align="center"> Hi 👋🏻, I'm Pawan Kr. Tiwari </br>
 </h1>
 <p align="center">I'm passionate about DevOps, Cloud Computing with a flair for Front-end development and UI/UX design. ⚡</p>
-<p align="center">The magic you are Looking For Is in the work You are Avoiding 🚀</p>
-<p align="center">
-<!--  <a href="https://www.buymeacoffee.com/vishwagauravin" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a> -->
-<!--  <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a> -->
+<p align="center">♾️ The magic you are Looking for is in the work You are Avoiding ♾️</p>
+<p align="center">	
 <a href="https://x.com/ThePawanKTiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/pawankrtiwari/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<!-- <a href="https://medium.com/@pawankr.tiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>-->
 <a href="https://medium.com/@pawankr.tiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" style="vertical-align:center" /></a>
 
+
+
+
+
+
+
  <p align="center">Glad to see you here!  
-<p align="center">⚡ Fun fact: Internet users blink less than usual. 
+<p align="center">🍄‍🟫 Fun fact: Internet users blink less than usual. 
 	
 ### 🚀 About Me 
 
@@ -64,7 +67,7 @@ Feel free to reach out— pwn.trpth1@gmail.com. I’m excited to exchange ideas 
 ### Projects and Dev Stuffs:
 
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>🌐 Github Stats</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thepawankrtiwari&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
@@ -97,6 +100,12 @@ Feel free to reach out— pwn.trpth1@gmail.com. I’m excited to exchange ideas 
 
 <div align="center">
 
-### Show some ❤️ by starring the repositories!
+ 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=thepawankrtiwari&style=for-the-badge&color=blue" alt="Profile Visits"/>
+</p> 
+
+
+### Show some ❤️ by starring the repository!
 
 </div>

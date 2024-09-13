@@ -21,7 +21,7 @@
 My tech journey is a dynamic blend of learning, experimenting, and sharing knowledge with the community.
 
 🔭 Current Focus
-- &nbsp; DevOps & Cloud Computing: Enhancing my expertise in automation, orchestration, and cloud infrastructure.
+- &nbsp; Containerization & CI/CD Technologies: Enhancing my expertise in docker, jenkins, and cloud automation.
 - &nbsp; Notion: Leveraging it for seamless project management and personal productivity.
   
 🌱 Learning Goals

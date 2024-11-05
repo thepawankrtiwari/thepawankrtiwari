@@ -22,11 +22,11 @@ My tech journey is a dynamic blend of learning, experimenting, and sharing knowl
 
 🔭 Current Focus
 - &nbsp; Containerization & CI/CD Technologies: Enhancing my expertise in docker, jenkins, and cloud automation.
+- &nbsp; AWS: Diving deep into services like EC2, S3, and Lambda to build robust cloud solutions.
 - &nbsp; Notion: Leveraging it for seamless project management and personal productivity.
   
 🌱 Learning Goals
 - &nbsp; Linux & Shell Scripting: Mastering system management and task automation.
-- &nbsp; AWS: Diving deep into services like EC2, S3, and Lambda to build robust cloud solutions.
 - &nbsp; DevOps Tools: Hands-on experience with Docker, Kubernetes, Jenkins, and CI/CD pipelines for efficient and scalable deployments.
 - &nbsp; Front-end Development & UI/UX Design: Exploring the art of building intuitive and responsive user interfaces while cultivating a strong sense for designing user-centric digital experiences.
 

@@ -21,14 +21,15 @@
 My tech journey is a dynamic blend of learning, experimenting, and sharing knowledge with the community.
 
 🔭 Current Focus
-- &nbsp; Containerization & CI/CD Technologies: Enhancing my expertise in docker, jenkins, and cloud automation.
-- &nbsp; AWS: Diving deep into services like EC2, S3, and Lambda to build robust cloud solutions.
-- &nbsp; Notion: Leveraging it for seamless project management and personal productivity.
-  
+- &nbsp; Containerization & CI/CD Technologies: Enhancing my expertise in Docker and Jenkins to automate workflows efficiently.
+- &nbsp; AWS Cloud Services: Deepening my knowledge of EC2, S3, and Lambda to create scalable cloud architectures.
+- &nbsp; DevOps Fundamentals: Strengthening my understanding of Linux, Git, and SDLC principles for robust development processes.
+
 🌱 Learning Goals
-- &nbsp; Linux & Shell Scripting: Mastering system management and task automation.
-- &nbsp; DevOps Tools: Hands-on experience with Docker, Kubernetes, Jenkins, and CI/CD pipelines for efficient and scalable deployments.
-- &nbsp; Front-end Development & UI/UX Design: Exploring the art of building intuitive and responsive user interfaces while cultivating a strong sense for designing user-centric digital experiences.
+- &nbsp; Networking Concepts: Mastering OSI, TCP/IP models, and security protocols to optimize network performance and security.
+- &nbsp; Advanced Cloud Computing: Gaining proficiency in multi-cloud environments, including GCP and Azure, to manage diverse infrastructures.
+- &nbsp; Orchestration & Management: Exploring Kubernetes and Helm for effective container orchestration and application scaling.
+- &nbsp; Front-end Development & UI/UX Design: Exploring the art of building intuitive and responsive user interfaces while cultivating a strong sense of designing user-centric digital experiences.
 
 Feel free to reach out— pwn.trpth1@gmail.com. I’m excited to exchange ideas and collaborate on tech adventures!
 

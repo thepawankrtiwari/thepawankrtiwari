@@ -33,6 +33,7 @@ My tech journey is a dynamic blend of learning, experimenting, and sharing knowl
 - &nbsp; Containerization & CI/CD: Exploring Docker and Jenkins to streamline deployment pipelines.
 - &nbsp; Cloud Computing (AWS/GCP/Azure): Enhancing my grasp on EC2, S3, Lambda, and multi-cloud environments.
 
+feel free to reach out at pwn.trpth1@gmail.com
 <!--
 <details>
   <summary><b> My Favorite </b></summary>

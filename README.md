@@ -59,7 +59,7 @@ Feel free to reach out— pwn.trpth1@gmail.com. I’m excited to exchange ideas 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma"></code>
-<code><img height="27" src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/icons/canva.svg" alt="canva"></code>
 <code><img height="27" src="https://www.notion.so/front-static/favicon.ico" alt="notion"></code>
 
 

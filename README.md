@@ -16,10 +16,10 @@
 <!-- <p align="center">Glad to see you here!  -->
 <p align="center">🍄‍🟫 Fun fact: Internet users blink less than usual. 
 	
-### 🚀 About Me 
+<!--### 🚀 About Me 
 
 My tech journey is a dynamic blend of learning, experimenting, and sharing knowledge with the community.
-
+-->
 🔭 Current Focus
 - &nbsp; Core to Advanced Java: Strengthening object-oriented principles, collections, exception handling, multithreading, and I/O operations.
 - &nbsp; MySQL: Designing efficient relational database structures for real-world projects.

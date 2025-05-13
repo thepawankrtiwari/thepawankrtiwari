@@ -1,9 +1,9 @@
 <h1 align="center"> Hi 👋🏻, I'm Pawan Kr. Tiwari </br>
 </h1>
-<p align="center">I'm passionate about DevOps, Cloud Computing with a flair for Front-end development and UI/UX design. ⚡</p>
+<p align="center">I'm passionate about Java, DevOps and Cloud Computing with a flair for Front-end & UI/UX. ⚡</p>
 <p align="center">♾️ The magic you are Looking for is in the work You are Avoiding ♾️</p>
 <p align="center">	
-<a href="https://x.com/ThePawanKTiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="mailto:pawankr.tiwari@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/pawan-kr-tiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://medium.com/@pawankr.tiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" style="vertical-align:center" /></a>
 
@@ -13,7 +13,7 @@
 
 
 
- <p align="center">Glad to see you here!  
+<!-- <p align="center">Glad to see you here!  -->
 <p align="center">🍄‍🟫 Fun fact: Internet users blink less than usual. 
 	
 ### 🚀 About Me 
@@ -32,10 +32,8 @@ My tech journey is a dynamic blend of learning, experimenting, and sharing knowl
 - &nbsp; System Design Fundamentals: Learning how to scale applications and design resilient architectures. 
 - &nbsp; Containerization & CI/CD: Exploring Docker and Jenkins to streamline deployment pipelines.
 - &nbsp; Cloud Computing (AWS/GCP/Azure): Enhancing my grasp on EC2, S3, Lambda, and multi-cloud environments.
-- &nbsp; Front-end Development & UI/UX Design: Exploring the art of building intuitive and responsive user interfaces while cultivating a strong sense of designing user-centric digital experiences.
 
-Feel free to reach out— pwn.trpth1@gmail.com. I’m excited to exchange ideas and collaborate on tech adventures!
-
+<!--
 <details>
   <summary><b> My Favorite </b></summary>
 
@@ -46,6 +44,7 @@ Feel free to reach out— pwn.trpth1@gmail.com. I’m excited to exchange ideas 
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 </details>
+-->
 
 ### Languages and Tools:
 
@@ -68,13 +67,11 @@ Feel free to reach out— pwn.trpth1@gmail.com. I’m excited to exchange ideas 
 
 ### Projects and Dev Stuffs:
 
-<details>
-  <summary><b>🌐 Github Stats</b></summary>
-
+  <b>🌐 Github Stats</b>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thepawankrtiwari&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepawankrtiwari&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
-</details>
+
 
 <!--
 <details>

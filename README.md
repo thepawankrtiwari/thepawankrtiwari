@@ -46,20 +46,18 @@ Feel free to reach out— pwn.trpth1@gmail.com. I’m excited to exchange ideas 
 
 ### Languages and Tools:
 
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/e65ef46ef3e7bc457c93622f6a89fe8d3fd131d5/topics/npm/npm.png" alt="npm"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/icons/canva.svg" alt="canva"></code>
 <code><img height="27" src="https://www.notion.so/front-static/favicon.ico" alt="notion"></code>
 
 
@@ -79,7 +77,7 @@ Feel free to reach out— pwn.trpth1@gmail.com. I’m excited to exchange ideas 
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thepawankrtiwari&hide_border=true&theme=dark" />
+  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=thepawankrtiwari&hide_border=true&theme=dark" alt="GitHub Streak" />
 </details>
 
 
@@ -90,10 +88,10 @@ Feel free to reach out— pwn.trpth1@gmail.com. I’m excited to exchange ideas 
   	    <li><b>OS:</b> Windows 11, version 23H2</li>
 	    <li><b>Laptop: </b> Lenovo Ideapad</li>
   	    <li><b>Browser: </b> Chrome & Edge</li>
-	    <li><b>Terminal: </b> Currently: bash</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Raindrop, Notion & Figma </li>
-	    <li><b>To Stay Updated:</b> Thenewsstach, Medium and Hacker News</li>
+	    <li><b>Terminal: </b> bash</li>
+	    <li><b>Code Editor:</b>Eclipse & VSCode </li>
+ 	    <li><b>Other Tools:</b> Notion & Figma </li>
+	    <li><b>To Stay Updated:</b> Medium, YouTube and Hacker News</li>
 	</ul>
 </details>
 

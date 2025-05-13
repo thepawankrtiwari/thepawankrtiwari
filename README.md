@@ -21,14 +21,17 @@
 My tech journey is a dynamic blend of learning, experimenting, and sharing knowledge with the community.
 
 🔭 Current Focus
-- &nbsp; Containerization & CI/CD Technologies: Enhancing my expertise in Docker and Jenkins to automate workflows efficiently.
-- &nbsp; AWS Cloud Services: Deepening my knowledge of EC2, S3, and Lambda to create scalable cloud architectures.
-- &nbsp; DevOps Fundamentals: Strengthening my understanding of Linux, Git, and SDLC principles for robust development processes.
+- &nbsp; Core to Advanced Java: Strengthening object-oriented principles, collections, exception handling, multithreading, and I/O operations.
+- &nbsp; MySQL: Designing efficient relational database structures for real-world projects.
+- &nbsp; Spring Boot & REST API: Building robust backend applications and RESTful services.
+- &nbsp; Linux, Git & SDLC: Sharpening the backbone of workflows.
+
 
 🌱 Learning Goals
-- &nbsp; Networking Concepts: Mastering OSI, TCP/IP models, and security protocols to optimize network performance and security.
-- &nbsp; Advanced Cloud Computing: Gaining proficiency in multi-cloud environments, including GCP and Azure, to manage diverse infrastructures.
-- &nbsp; Orchestration & Management: Exploring Kubernetes and Helm for effective container orchestration and application scaling.
+
+- &nbsp; System Design Fundamentals: Learning how to scale applications and design resilient architectures. 
+- &nbsp; Containerization & CI/CD: Exploring Docker and Jenkins to streamline deployment pipelines.
+- &nbsp; Cloud Computing (AWS/GCP/Azure): Enhancing my grasp on EC2, S3, Lambda, and multi-cloud environments.
 - &nbsp; Front-end Development & UI/UX Design: Exploring the art of building intuitive and responsive user interfaces while cultivating a strong sense of designing user-centric digital experiences.
 
 Feel free to reach out— pwn.trpth1@gmail.com. I’m excited to exchange ideas and collaborate on tech adventures!
@@ -73,13 +76,14 @@ Feel free to reach out— pwn.trpth1@gmail.com. I’m excited to exchange ideas 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepawankrtiwari&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 </details>
 
+<!--
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=thepawankrtiwari&hide_border=true&theme=dark" alt="GitHub Streak" />
 </details>
-
+-->
 
 <details>
   <br />

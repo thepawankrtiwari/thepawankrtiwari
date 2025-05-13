@@ -3,9 +3,9 @@
 <p align="center"> Full Stack Developer with a passion for crafting beautiful & user-friendly interfaces.⚡</p>
 <p align="center">♾️ The magic you are Looking for is in the work You are Avoiding ♾️</p>
 <p align="center">	
-<a href="mailto:pawankr.tiwari@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/pawan-kr-tiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://medium.com/@pawankr.tiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" style="vertical-align:center" /></a>
+<a href="https://dev.to/pawan_kumartiwari_5ea1b5" target="_blank"><img alt="DEV" src="https://img.shields.io/badge/DEV-000?style=for-the-badge&logo=dev.to&logoColor=white" style="vertical-align:center" /></a>
 
 
 

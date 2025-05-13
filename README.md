@@ -4,7 +4,7 @@
 <p align="center">♾️ The magic you are Looking for is in the work You are Avoiding ♾️</p>
 <p align="center">	
 <a href="https://x.com/ThePawanKTiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/pawankrtiwari/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/pawan-kr-tiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://medium.com/@pawankr.tiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" style="vertical-align:center" /></a>
 
 

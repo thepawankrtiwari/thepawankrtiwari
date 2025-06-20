@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋🏻, I'm Pawan Kr. Tiwari </br>
 </h1>
-<p align="center"> Full Stack Developer with a passion for crafting beautiful & user-friendly interfaces.⚡</p>
+<p align="center"> Full Stack Java Developer with a passion for crafting beautiful & user-friendly interfaces.⚡</p>
 <p align="center">♾️ The magic you are Looking for is in the work You are Avoiding ♾️</p>
 <p align="center">	
 <a href="https://www.linkedin.com/in/pawan-kr-tiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
@@ -19,20 +19,21 @@
 
 My tech journey is a dynamic blend of learning, experimenting, and sharing knowledge with the community.
 -->
-🔭 Current Focus
+### 🔭 Current Focus
 - &nbsp; Core to Advanced Java: Strengthening object-oriented principles, collections, exception handling, multithreading, and I/O operations.
 - &nbsp; MySQL: Designing efficient relational database structures for real-world projects.
 - &nbsp; Spring Boot & REST API: Building robust backend applications and RESTful services.
 - &nbsp; Linux, Git & SDLC: Sharpening the backbone of workflows.
 
 
-🌱 Learning Goals
+### 🌱 Learning Goals
 
 - &nbsp; System Design Fundamentals: Learning how to scale applications and design resilient architectures. 
 - &nbsp; Containerization & CI/CD: Exploring Docker and Jenkins to streamline deployment pipelines.
 - &nbsp; Cloud Computing (AWS/GCP/Azure): Enhancing my grasp on EC2, S3, Lambda, and multi-cloud environments.
-
+---
 feel free to reach out at pwn.trpth1@gmail.com
+
 <!--
 <details>
   <summary><b> My Favorite </b></summary>
@@ -62,6 +63,7 @@ feel free to reach out at pwn.trpth1@gmail.com
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma"></code>
 <code><img height="27" src="https://www.notion.so/front-static/favicon.ico" alt="notion"></code>
 
+---
 
 
 
@@ -72,7 +74,7 @@ feel free to reach out at pwn.trpth1@gmail.com
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thepawankrtiwari&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thepawankrtiwari&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 
-
+---
 <!--
 <details>
   <summary><b>☄️ Github Streaks</b></summary>

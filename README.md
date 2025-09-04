@@ -2,6 +2,15 @@
 </h1>
 <p align="center"> Full Stack Java Developer with a passion for crafting beautiful & user-friendly interfaces.⚡</p>
 <p align="center">♾️ The magic you are Looking for is in the work You are Avoiding ♾️</p>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjB0cjNzMzlxdmxjZXZobDd1d3A4dHg0cTA5djc5bnFieTBpbWJnMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYhj4VNwxHdlE9G/giphy.gif" width="280px"/>
+</p>
+
+
+
+
+
 <p align="center">	
 <a href="https://www.linkedin.com/in/pawankrtiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://medium.com/@pawankr.tiwari" target="_blank"><img alt="" src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" style="vertical-align:center" /></a>
